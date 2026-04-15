@@ -1,0 +1,14 @@
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\bin\Debug\net8.0\AirlineReservationSystem.exe
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\bin\Debug\net8.0\AirlineReservationSystem.deps.json
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\bin\Debug\net8.0\AirlineReservationSystem.runtimeconfig.json
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\bin\Debug\net8.0\AirlineReservationSystem.dll
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\bin\Debug\net8.0\AirlineReservationSystem.pdb
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.AssemblyInfoInputs.cache
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.AssemblyInfo.cs
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.csproj.CoreCompileInputs.cache
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.dll
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\refint\AirlineReservationSystem.dll
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.pdb
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\AirlineReservationSystem.genruntimeconfig.cache
+D:\Python 11..coding\Compiler Construction\AirlineReservationSystem\obj\Debug\net8.0\ref\AirlineReservationSystem.dll
